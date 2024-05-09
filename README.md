@@ -3,18 +3,15 @@
 <h2 align="center"> I am available for contributing on Open Source sproject</h2>
 <h3 align="center">A Junior Front - End & Backend Web Developer.</h3
 
+🌱 I’m currently learning **Machine Learning, and MongoDB**    
 
-- 🌱 I’m currently learning **Machine Learning, and MongoDB**
-    
+👯 I’m looking to collaborate on **Anyone's Open Source Project**
 
-- 👯 I’m looking to collaborate on **Anyone's Open Source Project**
-
+💬 Ask me about **React JS, Next JS, Front - End and Back - End Web Development**
      
-- 💬 Ask me about **React JS, Next JS, Front - End and Back - End Web Development**
-     
-- 📫 How to reach me **garg2012030@gmail.com**
+📫 How to reach me **garg2012030@gmail.com**
     
-- ⚡ Fun fact **I like to play cricket, and browse on youtube**
+⚡ Fun fact **I like to play cricket, and browse on youtube**
 
 
 <h3 align="left">Languages and Tools:</h3>
