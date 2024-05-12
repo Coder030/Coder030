@@ -11,7 +11,7 @@
      
 📫 How to reach me **garg2012030@gmail.com**
     
-⚡ Fun fact **I like to play cricket, and browse on youtube**
+⚡ Fun fact **I like to play sports, and browse on youtube**
 
 
 <h3 align="left">Languages and Tools:</h3>
