@@ -1,17 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Garg</h1>
-<h2 align="center"> I am available for contributing on Open Source sproject</h2>
-<h3 align="center">A Junior Front - End & Backend Web Developer.</h3
+<h3 align="center">A Student | Web Developer | Competitive Programmer</h3
 
-🌱 I’m currently learning **Machine Learning, and MongoDB**    
+🌱 I’m currently learning **Machine Learning, and DSA**    
 
-👯 I’m looking to collaborate on **Anyone's Open Source Project**
-
-💬 Ask me about **React JS, Next JS, Front - End and Back - End Web Development**
+💬 Ask me about **Web Development and Competitive Programming**
      
 📫 How to reach me **garg2012030@gmail.com**
     
-⚡ Fun fact **I like to play sports, and browse on youtube**
+⚡ Fun fact **I like to play sports, and read novels**
 
 
 <h3 align="left">Languages and Tools:</h3>
